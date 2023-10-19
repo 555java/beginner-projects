@@ -1,0 +1,32 @@
+body {
+  background-color: var(--bs-secondary-bg-rgb);
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar {
+  padding: 0px;
+  margin-bottom: 20px;
+  color: #aab0ff;
+  background-color: #7630db;
+}
+#quote {
+  color: #7630db;
+}
+.card {
+  min-width: 160px;
+  max-width: 400px;
+}
+#projectContainer {
+  margin-top: 15px;
+}
+.col {
+  margin: 0 auto;
+}
